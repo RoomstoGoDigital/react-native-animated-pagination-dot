@@ -1,5 +1,5 @@
 {
-  "name": "react-native-animated-pagination-dot",
+  "name": "@rtgdev/rtg-app-animated-pagination-dots",
   "version": "0.4.0",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -43,14 +43,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Soomgo-Mobile/react-native-animated-pagination-dot.git"
+    "url": "git+https://github.com/RoomstoGoDigital/react-native-animated-pagination-dot.git"
   },
   "author": "Pratt Yeon <rouge3351@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Soomgo-Mobile/react-native-animated-pagination-dot/issues"
+    "url": "https://github.com/RoomstoGoDigital/react-native-animated-pagination-dot/issues"
   },
-  "homepage": "https://github.com/Soomgo-Mobile/react-native-animated-pagination-dot#readme",
+  "homepage": "https://github.com/RoomstoGoDigital/react-native-animated-pagination-dot#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
