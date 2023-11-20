@@ -1,5 +1,5 @@
 {
-  "name": "rtg-app-animated-pagination-dot",
+  "name": "@rtgdev/rtg-app-animated-pagination-dots",
   "version": "0.4.0",
   "description": "test",
   "main": "lib/commonjs/index",
